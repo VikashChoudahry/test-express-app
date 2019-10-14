@@ -4,7 +4,7 @@ This is a sample app to demonstrate the use of "config-property-manager" package
 
 ## Pre-requisite
 
-1. Set the required env variables (.env).
+1. Set the required env variables (.env). You may copy the env.example and set it into .env file.
 
 ## Steps to run
 
