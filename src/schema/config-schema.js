@@ -1,7 +1,8 @@
 const ConfigSchema = {
   requiredProperties: [
     'PORT',
-    'ENV'
+    'ENV',
+    'APIURL'
   ]
 };
 
